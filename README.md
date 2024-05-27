@@ -1,6 +1,6 @@
 # Product Manager Skills Analysis
 
-This repository contains the analysis of job descriptions to identify the top skills required for Product Manager roles. The analysis includes data collection, text processing, and visualization to provide insights into the key skills demanded by employers.
+This repository contains the analysis of job descriptions to identify the top skills required for Product Manager roles in Malaysia. The analysis includes data collection, text processing, and visualization to provide insights into the key skills demanded by employers.
 
 ## Motivation
 
